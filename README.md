@@ -22,5 +22,5 @@ tijdens de voorbereiding liep ik aan tegen de css diner game, ik wist niet wat i
 <summary><h1>Les 4 sprint 1 start</h1></summary>
 Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
-Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 </details>
