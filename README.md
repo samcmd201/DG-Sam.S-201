@@ -12,9 +12,9 @@ door de html en css code aan te passen
 </details>
 <details>
 <summary>Les 2 practica</summary>
-MMD en schetsen, hier komen mijn antwoorden op de checkout vragen
+MMD en schetsen, ik heb even opnieuw theorie gehad uit jaar 1 en geoefend met schetsen 
 </details>
 <details> 
 <summary>Les 3 practica</summary>
-hier komen mijn antwoorden op de checkout vragen
+Ik heb vandaag een basis gekregen over coderen 
 </details>
