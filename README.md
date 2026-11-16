@@ -12,9 +12,9 @@ door de html en css code aan te passen
 </details>
 <details>
 <summary>Les 2 practica</summary>
-MMD en schetsen, ik heb even opnieuw theorie gehad uit jaar 1 en geoefend met schetsen 
+MMD en schetsen, ik heb even opnieuw theorie gehad uit jaar 1 en in figma het ontwerp voor wok to walk gemaakt. ook heb ik geoefend met schetsen en heb ik de pagina van bol.com nagemaakt in een getaileerde tekening. 
 </details>
 <details> 
 <summary>Les 3 practica</summary>
-Ik heb vandaag een basis gekregen over coderen 
+tijdens de voorbereiding liep ik aan tegen de css diner game, ik wist niet wat ik moest doen, toen ik daarna aan een medestudent hulp vroeg ging het iets beter maar ik kwam niet ver. Ik heb vandaag een basis gekregen over coderen ik heb een lelijke html pagina mooier gemaakt met css en ik heb posters nagemaakt door font-face te gebruiken. Ik liep tegen veel dingen aan. Als iets niet precies was verteld hoe iets moest liep ik vast 
 </details>
