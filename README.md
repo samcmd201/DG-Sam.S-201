@@ -12,7 +12,7 @@ door de html en css code aan te passen
 </details>
 <details>
 <summary><h1>Les 2 practica</h1></summary>
-MMD en schetsen, ik heb even opnieuw theorie gehad uit jaar 1 en in figma het ontwerp voor wok to walk gemaakt. ook heb ik geoefend met schetsen en heb ik de pagina van bol.com nagemaakt in een getaileerde tekening. <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f3666221-a3ce-44fa-af9c-1146d9e20437" />
+MMD en schetsen, ik heb even opnieuw theorie gehad uit jaar 1 en in figma het ontwerp voor wok to walk gemaakt. ook heb ik geoefend met schetsen en heb ik de pagina van bol.com nagemaakt in een getaileerde tekening. <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/f3666221-a3ce-44fa-af9c-1146d9e20437" />
 
 </details>
 <details> 
