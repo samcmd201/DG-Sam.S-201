@@ -2,7 +2,7 @@ _Kopieer en plak hier jouw README.md uit sprint 1._
 De checkout vragen voor vandaag:
 
 <details>
-<summary>Les 1 kickoff </summary>
+<summary><h1>Les 1 kickoff</h1></summary>
 <h1>Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.</h1>
 een hosting platform is een plek waar jouw website wordt opgeslagen en zij zetten jouw website op het web ik heb gekozen voor transip
 <h1>Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina. </h1>
