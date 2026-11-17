@@ -20,7 +20,7 @@ MMD en schetsen, ik heb even opnieuw theorie gehad uit jaar 1 en in figma het on
 tijdens de voorbereiding liep ik aan tegen de css diner game, ik wist niet wat ik moest doen, toen ik daarna aan een medestudent hulp vroeg ging het iets beter maar ik kwam niet ver. Ik heb vandaag een basis gekregen over coderen ik heb een lelijke html pagina mooier gemaakt met css en ik heb posters nagemaakt door font-face te gebruiken. Ik liep tegen veel dingen aan. Als iets niet precies was verteld hoe iets moest liep ik vast 
   <img width="376.5" height="194.75" alt="image" src="https://github.com/user-attachments/assets/d31b8286-53e1-481c-8c34-637a1b8c1513" />
   <img width="378" height="245.5" alt="image" src="https://github.com/user-attachments/assets/28313495-7f30-4da0-aa3b-7b24c184474c" />
- <img width="394" height="384" alt="image" src="https://github.com/user-attachments/assets/c40f5133-95fe-4c4c-a598-e76e89bfec4f" />
+ <img width="197" height="192" alt="image" src="https://github.com/user-attachments/assets/c40f5133-95fe-4c4c-a598-e76e89bfec4f" />
 
 
 
