@@ -21,7 +21,10 @@ tijdens de voorbereiding liep ik aan tegen de css diner game, ik wist niet wat i
 </details>
 <details>
 <summary><h1>Les 4 sprint 1 start</h1></summary>
-Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
-Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
-Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma ook heb ik een planning gemaakt.
+<h2>Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.</h2>
+een digital garden is een plek die alleen van jou is, een opslagplaats voor je gedachten
+<h2>Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.</h2>
+een website is webby als het adaptief, interactief, toegankelijk, volwassen, expresief en leuk/verassend is.
+<h2>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma </h2>
+Mijn idee nu is om iets te maken waar ik mijn photoshop posters mooi kan displayen door bijvoorbeeld een geanimeerde carousel te maken. 
 </details>
