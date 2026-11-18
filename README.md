@@ -22,9 +22,6 @@ tijdens de voorbereiding liep ik aan tegen de css diner game, ik wist niet wat i
   <img width="378" height="245.5" alt="image" src="https://github.com/user-attachments/assets/28313495-7f30-4da0-aa3b-7b24c184474c" />
  <img width="197" height="192" alt="image" src="https://github.com/user-attachments/assets/c40f5133-95fe-4c4c-a598-e76e89bfec4f" />
 
-
-
-
 </details>
 <details>
 <summary><h1>Les 4 sprint 1 start</h1></summary>
@@ -34,4 +31,31 @@ een digital garden is een plek die alleen van jou is, een opslagplaats voor je g
 een website is webby als het adaptief, interactief, toegankelijk, volwassen, expresief en leuk/verassend is.
 <h2>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma </h2>
 Mijn idee nu is om iets te maken waar ik mijn photoshop posters mooi kan displayen door bijvoorbeeld een geanimeerde carousel te maken. 
+</details>
+<details>
+<summary><h1>Les 5 sprint 1 </h1></summary>
+<h2>Vragenlijst:</h2>
+
+Eigen verbinding:​
+
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​visuel designen en mezelf motiveren om in me vrije tijd te experimenteren en te ontwerpen
+
+Heeft 'de ander' een aanvulling op je onderwerp?​ dieper ingaan op de posters zelf en niet alleen de showcase van je posters
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​ modern, dynamisch, uniek
+
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
+hoe ik het kan displayen en wat voor unike ontwerptechnieken ik kan gebruiken in het maken van nieuwe posters
+​
+
+Een stip op de horizon​
+
+Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​vooral afbeeldingen op een unieke manier laten zien dmv animaties
+
+Vul deze zin aan:
+Ik wil mijn Digital Garden laten gaan over moderne digitale poster designs.
+en wil dat laten zien door ​vooral afbeeldingen op een unieke manier laten zien dmv animaties aan content te tonen.
+Ik begin met een stukje eigen content over nieuwe design technieken om mensen te inspireren.… . ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe posters erbij te zetten en meer manieren toetevoegen hoe de posters gedisplayed zijn​
+
 </details>
