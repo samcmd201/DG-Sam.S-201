@@ -66,6 +66,13 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe poster
 Ik heb eerst trefwoorden bepaald en op drie manieren research gedaan, daarna heb ik een crazy 8 gemaakt. Aflsuitend heb ik 5 scherm-schetsen gemaakt en een mini styleguide gemaakt
 
 <img width="500" alt="Visual Research klas 201 - Sam" src="https://github.com/user-attachments/assets/e5371f01-5472-4a70-a80f-e1de1b7c22b2" />
+<img width="400" alt="schets 1 " src="https://github.com/user-attachments/assets/473d862e-918e-4616-9ed5-57b63caae44f" />
+<img width="400" alt="schets 2" src="https://github.com/user-attachments/assets/33ef1c61-8dd7-40e2-81e9-54c6a46caf4e" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f552c75c-8e55-4407-bbc6-2c81696e63ae" />
+<img width="400" height= alt="Scherm­afbeelding 2026-11-18 om 21 41 58" src="https://github.com/user-attachments/assets/46af29bf-708a-4534-88bf-9a0860e69342" />
+
+
+
 
 mischien een geanimeerde transitie tussen verschillende carousel vormen
 
