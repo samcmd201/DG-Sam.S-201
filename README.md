@@ -63,8 +63,8 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe poster
 
 
 <h2>visueel onderzoek</h2>
-Ik heb eerst trefwoorden bepaald en op drie manieren research gedaan, daarna heb ik een crazy 8 gemaakt. Aflsuitend heb ik 5 scherm-schetsen gemaakt en een mini styleguide gemaakt
 
+Ik heb eerst trefwoorden bepaald en op drie manieren research gedaan, daarna heb ik een crazy 8 gemaakt. Aflsuitend heb ik 5 scherm-schetsen gemaakt en een mini styleguide gemaakt
 
 <img width="500" alt="Visual Research klas 201 - Sam" src="https://github.com/user-attachments/assets/e5371f01-5472-4a70-a80f-e1de1b7c22b2" />
 <img width="400" alt="schets 1 " src="https://github.com/user-attachments/assets/473d862e-918e-4616-9ed5-57b63caae44f" />
