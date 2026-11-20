@@ -71,6 +71,8 @@ Ik heb eerst trefwoorden bepaald en op drie manieren research gedaan, daarna heb
 <img width="400" alt="schets 2" src="https://github.com/user-attachments/assets/33ef1c61-8dd7-40e2-81e9-54c6a46caf4e" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f552c75c-8e55-4407-bbc6-2c81696e63ae" />
 <img width="400" height= alt="Scherm­afbeelding 2026-11-18 om 21 41 58" src="https://github.com/user-attachments/assets/46af29bf-708a-4534-88bf-9a0860e69342" />
+<img width="400" height="982" alt="Scherm­afbeelding 2026-11-18 om 21 44 01" src="https://github.com/user-attachments/assets/f64d18ef-a501-44af-b113-1d87c7704766" />
+
 
 
 
