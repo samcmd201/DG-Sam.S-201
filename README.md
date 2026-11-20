@@ -18,7 +18,6 @@ MMD en schetsen, ik heb even opnieuw theorie gehad uit jaar 1 en in figma het on
 <img width="378" height="245.5" alt="image" src="https://github.com/user-attachments/assets/f3666221-a3ce-44fa-af9c-1146d9e20437" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/8f04c21e-5973-4047-a80b-b6023c548118" />
 
-
 </details>
 <details> 
 <summary><h1>13 nov Les 3 practica</h1></summary>
@@ -75,4 +74,8 @@ Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat 
 mijn garden gaat over mijn poster designs hierin vertel ik over het procces probeer ik anderen te inspireren en mezelf te motiveren om in me vrije tijd te experimenteren met nieuwe technieken. dit doe ik door mijn poster in een unieke carousel laat zien met animaties
 Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. ik zou het liefst mijn eerste idee verder willen uitwerken omdat ik denk dat deze het uniekst is
 
+</details>
+<details>
+<summary><h1>20 nov les 6 sprint 1</h1></summary>
+vandaag heb ik
 </details>
