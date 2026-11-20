@@ -32,11 +32,10 @@ een website is webby als het adaptief, interactief, toegankelijk, volwassen, exp
 <h2>Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma </h2>
 Mijn idee nu is om iets te maken waar ik mijn photoshop posters mooi kan displayen door bijvoorbeeld een geanimeerde carousel te maken. 
 </details>
+
 <details>
 <summary><h1>18 nov Les 5 sprint 1 </h1></summary>
-<h2>Vragenlijst:</h2>
-
-Eigen verbinding:​
+<h2>Vragenlijst na presentatie:</h2>
 
 Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​visuel designen en mezelf motiveren om in me vrije tijd te experimenteren en te ontwerpen
 
@@ -47,9 +46,6 @@ Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bij
 Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
 hoe ik het kan displayen en wat voor unike ontwerptechnieken ik kan gebruiken in het maken van nieuwe posters
 ​
-
-Een stip op de horizon​
-
 Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​vooral afbeeldingen op een unieke manier laten zien dmv animaties
 
 Vul deze zin aan:
@@ -57,5 +53,16 @@ Ik wil mijn Digital Garden laten gaan over moderne digitale poster designs.
 en wil dat laten zien door ​vooral afbeeldingen op een unieke manier laten zien dmv animaties aan content te tonen.
 Ik begin met een stukje eigen content over nieuwe design technieken om mensen te inspireren.… . ​
 Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe posters erbij te zetten en meer manieren toetevoegen hoe de posters gedisplayed zijn​
+
+<h2>visueel onderzoek</h2>
+Ik heb eerst trefwoorden bepaald en op drie manieren research gedaan, daarna heb ik een crazy 8 gemaakt. Aflsuitend heb ik 5 scherm-schetsen gemaakt en een mini styleguide gemaakt
+
+mischien een geanimeerde transitie tussen verschillende carousel vormen
+
+<h2>checkout vragen</h2>
+Leg uit waar het Visual Research in 3 stappen naartoe werkt
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+mijn garden gaat over mijn poster designs hierin vertel ik over het procces probeer ik anderen te inspireren en mezelf te motiveren om in me vrije tijd te experimenteren met nieuwe technieken. dit doe ik door mijn poster in een unieke carousel laat zien met animaties
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. ik zou het liefst mijn eerste idee verder willen uitwerken omdat ik denk dat deze het uniekst is
 
 </details>
