@@ -63,6 +63,9 @@ Vul deze zin aan:
 Ik wil mijn Digital Garden laten gaan over moderne digitale poster designs.
 en wil dat laten zien door ​vooral afbeeldingen op een unieke manier laten zien dmv animaties aan content te tonen.
 Ik begin met een stukje eigen content over nieuwe design technieken om mensen te inspireren.… . ​
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe posters erbij te zetten en meer manieren toetevoegen hoe de posters gedisplayed zijn​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe posters erbij te zetten en meer manieren toetevoegen hoe de posters gedisplayed zijn
+
+<img width="500" alt="Visual Research klas 201 - Sam" src="https://github.com/user-attachments/assets/e5371f01-5472-4a70-a80f-e1de1b7c22b2" />
+​
 
 </details>
