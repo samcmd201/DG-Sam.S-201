@@ -14,7 +14,7 @@ door de html en css code aan te passen
 <summary><h1>11 nov Les 2 practica</h1></summary>
 MMD en schetsen, ik heb even opnieuw theorie gehad uit jaar 1 en in figma het ontwerp voor wok to walk gemaakt. ook heb ik geoefend met schetsen en heb ik de pagina van bol.com nagemaakt in een getaileerde tekening. 
   
-  <img width="378" height="245.5" alt="image" src="https://github.com/user-attachments/assets/f3666221-a3ce-44fa-af9c-1146d9e20437" />
+<img width="378" height="245.5" alt="image" src="https://github.com/user-attachments/assets/f3666221-a3ce-44fa-af9c-1146d9e20437" />
 <img width="431" height="512" alt="image" src="https://github.com/user-attachments/assets/8f04c21e-5973-4047-a80b-b6023c548118" />
 
 
