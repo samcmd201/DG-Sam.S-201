@@ -60,7 +60,6 @@ en wil dat laten zien door ​vooral afbeeldingen op een unieke manier laten zie
 Ik begin met een stukje eigen content over nieuwe design technieken om mensen te inspireren.… . ​
 Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe posters erbij te zetten en meer manieren toetevoegen hoe de posters gedisplayed zijn
 
-
 <h2>visueel onderzoek</h2>
 
 Ik heb eerst trefwoorden bepaald en op drie manieren research gedaan, daarna heb ik een crazy 8 gemaakt. Aflsuitend heb ik 5 scherm-schetsen gemaakt en een mini styleguide gemaakt
@@ -72,20 +71,19 @@ Ik heb eerst trefwoorden bepaald en op drie manieren research gedaan, daarna heb
 <img width="400" height= alt="Scherm­afbeelding 2026-11-18 om 21 41 58" src="https://github.com/user-attachments/assets/46af29bf-708a-4534-88bf-9a0860e69342" />
 <img width="400" alt="Scherm­afbeelding 2026-11-18 om 21 44 01" src="https://github.com/user-attachments/assets/f64d18ef-a501-44af-b113-1d87c7704766" />
 
-
-
-
-
-mischien een geanimeerde transitie tussen verschillende carousel vormen
-
 <h2>checkout vragen</h2>
 Leg uit waar het Visual Research in 3 stappen naartoe werkt
+
 Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-mijn garden gaat over mijn poster designs hierin vertel ik over het procces probeer ik anderen te inspireren en mezelf te motiveren om in me vrije tijd te experimenteren met nieuwe technieken. dit doe ik door mijn poster in een unieke carousel laat zien met animaties
-Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. ik zou het liefst mijn eerste idee verder willen uitwerken omdat ik denk dat deze het uniekst is
+mijn garden gaat over mijn poster designs hierin vertel ik over het procces probeer ik anderen te inspireren en mezelf te motiveren om in me vrije tijd te experimenteren met nieuwe technieken. dit doe ik door mijn poster in een unieke carousel laat zien met animaties mischien een geanimeerde transitie tussen verschillende carousel vormen
+
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen
+onderzoeken.
+
+Ik zou het liefst mijn eerste idee verder willen uitwerken omdat ik denk dat deze het uniekst is
 
 </details>
 <details>
 <summary><h1>20 nov les 6 sprint 1</h1></summary>
-vandaag heb ik
+vandaag heb ik mijn schets omgezet in html en heb ik feedback gekregen diederik: zoek mischien nog een accent kleur. Sanne verander de posters van links naar afbeeldingen zodat je een popover kan maken, maak de radiobuttons rondjes en zet ze in een formulier met labels zodat alles klikbaar is. 
 </details>
