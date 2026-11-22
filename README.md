@@ -43,16 +43,25 @@ Mijn idee nu is om iets te maken waar ik mijn photoshop posters mooi kan display
 <summary><h1>18 nov Les 5 sprint 1 </h1></summary>
 <h2>Vragenlijst na presentatie:</h2>
 
-Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​visuel designen en mezelf motiveren om in me vrije tijd te experimenteren en te ontwerpen
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
 
-Heeft 'de ander' een aanvulling op je onderwerp?​ dieper ingaan op de posters zelf en niet alleen de showcase van je posters
+​visuel designen en mezelf motiveren om in me vrije tijd te experimenteren en te ontwerpen
 
-Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​ modern, dynamisch, uniek
+Heeft 'de ander' een aanvulling op je onderwerp?​
+
+dieper ingaan op de posters zelf en niet alleen de showcase van je posters
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+
+modern, dynamisch, uniek
 
 Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
+
 hoe ik het kan displayen en wat voor unike ontwerptechnieken ik kan gebruiken in het maken van nieuwe posters
 ​
-Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​vooral afbeeldingen op een unieke manier laten zien dmv animaties
+Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's).
+
+Ik wil een gallery maken waar ik ​vooral afbeeldingen op een unieke manier laten zien dmv animaties en moderne designs
 
 Vul deze zin aan:
 Ik wil mijn Digital Garden laten gaan over moderne digitale poster designs.
@@ -84,7 +93,8 @@ Ik zou het liefst mijn eerste idee verder willen uitwerken omdat ik denk dat dez
 </details>
 <details>
 <summary><h1>20 nov les 6 sprint 1</h1></summary>
-vandaag heb ik mijn schets omgezet in html en heb ik feedback gekregen diederik: zoek mischien nog een accent kleur. Sanne verander de posters van links naar afbeeldingen zodat je een popover kan maken, maak de radiobuttons rondjes en zet ze in een formulier met labels zodat alles klikbaar is. Ook heb ik het practica over grid gedaan, dit ging goed.
+
+vandaag heb ik mijn schets omgezet in html en heb ik feedback gekregen diederik: zoek mischien nog een accent kleur. Sanne verander de posters van links naar afbeeldingen zodat je een popover kan maken, maak de radiobuttons rondjes en zet ze in een formulier met labels zodat alles klikbaar is. Ook heb ik het practica over grid gedaan, dit ging goed ik begreep het allemaal snel en de oefeningen gingen goed.
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/f552c75c-8e55-4407-bbc6-2c81696e63ae"/>
 
