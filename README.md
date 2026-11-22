@@ -99,5 +99,9 @@ vandaag heb ik mijn schets omgezet in html en heb ik feedback gekregen diederik:
 Voor de volgende les werkte ik in figma mijn ideeën uit. Ik maakte de verschillende display manieren en ik experimenteerde met gradients die bij mijn kleuren paletten pasten voor de light en dark modes.
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/f552c75c-8e55-4407-bbc6-2c81696e63ae"/>
+  <img width="800" alt="Scherm­afbeelding 2026-11-22 om 14 55 40" src="https://github.com/user-attachments/assets/9239f6ae-5fd0-4776-94e0-685955a14e23" />
+  <img width="250" alt="Scherm­afbeelding 2026-11-22 om 14 55 52" src="https://github.com/user-attachments/assets/bb84958e-b42d-4869-8b38-79e754a1539d" />
+
+
 
 </details>
