@@ -97,7 +97,7 @@ Ik zou het liefst mijn eerste idee verder willen uitwerken omdat ik denk dat dez
 vandaag heb ik mijn schets omgezet in html en heb ik feedback gekregen diederik: zoek mischien nog een accent kleur. Sanne verander de posters van links naar afbeeldingen zodat je een popover kan maken, maak de radiobuttons rondjes en zet ze in een formulier met labels zodat alles klikbaar is. Ook heb ik het practica over grid gedaan, dit ging goed ik begreep het allemaal snel en de oefeningen gingen goed.
 
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/f552c75c-8e55-4407-bbc6-2c81696e63ae"/>
-  <img width="400" alt="Scherm­afbeelding 2026-11-22 om 14 55 40" src="https://github.com/user-attachments/assets/9239f6ae-5fd0-4776-94e0-685955a14e23" />
+  <img width="800" alt="Scherm­afbeelding 2026-11-22 om 14 55 40" src="https://github.com/user-attachments/assets/9239f6ae-5fd0-4776-94e0-685955a14e23" />
   <img width="250" alt="Scherm­afbeelding 2026-11-22 om 14 55 52" src="https://github.com/user-attachments/assets/bb84958e-b42d-4869-8b38-79e754a1539d" />
 
 
