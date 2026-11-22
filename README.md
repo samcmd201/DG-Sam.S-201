@@ -96,6 +96,8 @@ Ik zou het liefst mijn eerste idee verder willen uitwerken omdat ik denk dat dez
 
 vandaag heb ik mijn schets omgezet in html en heb ik feedback gekregen diederik: zoek mischien nog een accent kleur. Sanne verander de posters van links naar afbeeldingen zodat je een popover kan maken, maak de radiobuttons rondjes en zet ze in een formulier met labels zodat alles klikbaar is. Ook heb ik het practica over grid gedaan, dit ging goed ik begreep het allemaal snel en de oefeningen gingen goed.
 
+Voor de volgende les werkte ik in figma mijn ideeën uit. Ik maakte de verschillende display manieren en ik experimenteerde met gradients die bij mijn kleuren paletten pasten voor de light en dark modes.
+
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/f552c75c-8e55-4407-bbc6-2c81696e63ae"/>
 
 </details>
