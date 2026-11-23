@@ -3,9 +3,21 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
-  font-weight: 400;
+  font-family: "Bebas Neue";
+  src: url(../fonts/BebasNeue-Regular.ttf);
+  font-weight: 700;
+  font-style: bold;
+}
+@font-face {
+  font-family: "Abel";
+  src: url(../fonts/Abel-Regular.ttf);
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "The Youth";
+  src: url(../fonts/the-youth.otf);
+  font-weight: 100;
   font-style: normal;
 }
 
@@ -28,11 +40,31 @@ html {
 }
 
 img {
-  max-width: 100%;
+  width: 250%;
 }
-
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 5vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 1.5vw;
+}
+p {
+  font-size: 1vw;
+}
 body {
-  font-family: "Comic Relief", system-ui;
+  font-family: "Abel", sans-serif;
+  background: #193d59;
+  background: radial-gradient(
+    circle,
+    rgba(25, 61, 89, 1) 0%,
+    rgba(6, 34, 56, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  );
 }
 
 /**************************
@@ -59,3 +91,20 @@ main {
 /**************************
 * MARK: Section ...
 **************************/
+button {
+  width: 40%;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  cursor: pointer;
+}
+ul {
+  margin-left: -2.5em;
+  list-style: none;
+  display: grid;
+  gap: 1em;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
+}

@@ -102,6 +102,8 @@ Voor de volgende les werkte ik in figma mijn ideeën uit. Ik maakte de verschill
   <img width="800" alt="Scherm­afbeelding 2026-11-22 om 14 55 40" src="https://github.com/user-attachments/assets/9239f6ae-5fd0-4776-94e0-685955a14e23" />
   <img width="250" alt="Scherm­afbeelding 2026-11-22 om 14 55 52" src="https://github.com/user-attachments/assets/bb84958e-b42d-4869-8b38-79e754a1539d" />
 
-
-
 </details>
+<details>
+<summary><h1>23 nov les 7 sprint 1</h1></summary>
+
+vandaag heb ik zo goed mogelijk mijn Figma ontwerp nagemaakt met html en css. Ik begon met de gradient die ik op de site css gradient maakte. Vervolgens gebruikte ik font face om mijn fonts te krijgen en werkte ik een beetje aan de opmaak.
