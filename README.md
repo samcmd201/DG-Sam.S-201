@@ -106,11 +106,14 @@ Voor de volgende les werkte ik in figma mijn ideeën uit. Ik maakte de verschill
 </details>
 <details>
 <summary><h1>23 nov les 7 sprint 1</h1></summary>
+vandaag heb ik zo goed mogelijk mijn Figma ontwerp nagemaakt met html en css. Ik begon met de gradient die ik op de site css gradient maakte. Vervolgens gebruikte ik font face om mijn fonts te krijgen en werkte ik een beetje aan de opmaak. Ook kwam ik op het idee om op al mijn posters een gradientmap toe te passen in Photoshop, waardoor al mijn posters dezelfde kleuren hebben. Dan kan ik vervolgens met een hover en focus ervoor zorgen dat je de poster in de originele kleur kan bekijken.
 
-Vandaag heb ik zo goed mogelijk mijn Figma ontwerp nagemaakt met html en css. Ik begon met de gradient die ik op de site css gradient maakte. Vervolgens gebruikte ik font face om mijn fonts te krijgen en werkte ik een beetje aan de opmaak.
-
+<img width="750" alt="Scherm­afbeelding 2026-11-23 om 12 35 36" src="https://github.com/user-attachments/assets/4d81037b-b844-412f-b672-c915ebb55833" />
+<img width="750" alt="Scherm­afbeelding 2026-11-23 om 12 39 21" src="https://github.com/user-attachments/assets/77b2cc51-0a05-4893-9f7f-49a239af3ce9" />
+<img width="750" alt="Scherm­afbeelding 2026-11-23 om 14 32 38" src="https://github.com/user-attachments/assets/97e95553-ecb0-4bf0-a1db-3f35b5885bb4" />
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/a845dc8a-53e7-4568-952e-faff1a64239c" />
 </details>
-<details>
+
 <summary><h1>25 nov les 8 sprint 1</h1></summary>
 Vandaag begon met theorie over de gestalt-principes. Daarna maakte ik een nieuwe schets voor mijn ontwerp waarna wat medestudenten feedback gaven over hoe ik met de theorie mijn ontwerp kan verbeteren. Vervolgens kreeg ik in het practicum van Sanna hulp met de laatste loodjes. Hierdoor lukte het mij om voor light en dark mode een verschillende achtergrond-gradient te krijgen en dat de posters van kleur veranderen. Ook maakte ik een begin aan het maken van variabelen voor kleur en tekst door clamp te gebruiken. 
 </details>
