@@ -6,7 +6,7 @@
     <meta name="author" content="sam" />
     <meta name="color-scheme" content="dark light" />
 
-    <title>Sams Gallery</title>
+    <title>Sam's Gallery</title>
     <link rel="stylesheet" href="./css/normal.css" />
 
     <!-- Voeg jouw eigen domein toe in data-page -->
@@ -26,32 +26,88 @@
         <nav>
           <ul>
             <li>
-              <button>
-                <img src="./images/vampier.png" alt="poster 1" />
+              <button class="poster-1-normaal">
+                <picture>
+                  <source
+                    srcset="./images/vampier-poster-dm.png"
+                    media="(prefers-color-scheme: dark)"
+                  />
+                  <img
+                    src="./images/vampier-poster-lm.png"
+                    alt="poster 1 waar de mond van een vampier te zien is met op de achtergrond de tekst bite me"
+                  />
+                </picture>
               </button>
             </li>
             <li>
-              <button>
-                <img src="./images/frenkie poster.png" alt="poster 2" />
+              <button class="poster2">
+                <picture>
+                  <source
+                    srcset="./images/frenkie-poster-dm.png"
+                    media="(prefers-color-scheme: dark)"
+                  />
+                  <img
+                    src="./images/frenkie-poster-lm.png"
+                    alt="poster 1 waar de mond van een vampier te zien is met op de achtergrond de tekst bite me"
+                  />
+                </picture>
               </button>
             </li>
             <li>
-              <button>
-                <img src="./images/fc poster.png" alt="poster 3" />
+              <button class="poster3">
+                <picture>
+                  <source
+                    srcset="./images/fc-poster-dm.png"
+                    media="(prefers-color-scheme: dark)"
+                  />
+                  <img
+                    src="./images/fc-poster-lm.png"
+                    alt="poster 1 waar de mond van een vampier te zien is met op de achtergrond de tekst bite me"
+                  />
+                </picture>
               </button>
             </li>
             <li>
-              <button>
-                <img src="./images/mbappebloempje.png" alt="poster 4" />
+              <button class="poster4">
+                <picture>
+                  <source
+                    srcset="./images/mbappe-dm.png"
+                    media="(prefers-color-scheme: dark)"
+                  />
+                  <img
+                    src="./images/mbappe-lm.png"
+                    alt="poster 1 waar de mond van een vampier te zien is met op de achtergrond de tekst bite me"
+                  />
+                </picture>
               </button>
             </li>
             <li>
-              <button>
-                <img src="./images/it welcome to derry.png" alt="poster 5" />
+              <button class="poster5">
+                <picture>
+                  <source
+                    srcset="./images/itwelcometoderry-dm.png"
+                    media="(prefers-color-scheme: dark)"
+                  />
+                  <img
+                    src="./images/itwelcometoderry-lm.png"
+                    alt="poster 1 waar de mond van een vampier te zien is met op de achtergrond de tekst bite me"
+                  />
+                </picture>
               </button>
             </li>
             <li>
-              <button><img src="./images/jazz.png" alt="poster 6" /></button>
+              <button class="poster6">
+                <picture>
+                  <source
+                    srcset="./images/jazz-dm.png"
+                    media="(prefers-color-scheme: dark)"
+                  />
+                  <img
+                    src="./images/jazz-lm.png"
+                    alt="poster 1 waar de mond van een vampier te zien is met op de achtergrond de tekst bite me"
+                  />
+                </picture>
+              </button>
             </li>
           </ul>
         </nav>
@@ -60,21 +116,25 @@
 
       <form>
         <h3>customize de weergave</h3>
-        <input
-          type="radio"
-          id="organisch"
-          name="fav_weergave"
-          value="Organisch"
-          checked
-        />
-        <label for="organisch">Organisch</label>
-        <input
-          type="radio"
-          id="carousel"
-          name="fav_weergave"
-          value="Carousel"
-        />
-        <label for="carousel">Carousel</label>
+        <div class="radio-optie">
+          <input
+            type="radio"
+            id="organisch"
+            name="fav_weergave"
+            value="Organisch"
+            checked
+          />
+          <label for="organisch">Organisch</label>
+        </div>
+        <div class="radio-optie">
+          <input
+            type="radio"
+            id="carousel"
+            name="fav_weergave"
+            value="Carousel"
+          />
+          <label for="carousel">Carousel</label>
+        </div>
       </form>
     </main>
 

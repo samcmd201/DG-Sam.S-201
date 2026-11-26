@@ -22,11 +22,38 @@
 }
 
 /**************************
-* MARK: Custom properties
+* MARK: Custom properties / kluertjes en co
 **************************/
 
 html {
   color-scheme: light dark;
+
+  --tekstkleur: light-dark(#0d2a43, white);
+  --color: white;
+  /* --achtergond: light-dark(#7f89ab, #0d2a43); */
+  --gradient: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(127, 137, 171, 1) 100%
+  );
+
+  /* font-size */
+
+  --xxl: 2em;
+  --xl: 2em;
+  --l: clamp(1.25rem, 0.625rem + 3.125vw, 2.5rem);
+  --n: 1em;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    --gradient: radial-gradient(
+      circle,
+      rgba(60, 101, 133, 1) 0%,
+      rgba(25, 61, 89, 1) 50%,
+      rgba(3, 24, 40, 1) 100%
+    );
+  }
 }
 
 /**************************
@@ -40,7 +67,7 @@ html {
 }
 
 img {
-  width: 250%;
+  width: 100%;
 }
 h1 {
   font-family: "Bebas Neue", sans-serif;
@@ -51,20 +78,20 @@ h1 {
 }
 h3 {
   font-family: "Bebas Neue", sans-serif;
-  font-size: 1.5vw;
+  font-size: var(--l);
+  margin-bottom: 0em;
 }
 p {
   font-size: 1vw;
 }
+
+/* DE BODY / WRAPPER */
+
 body {
+  min-height: 100dvh;
+  background-image: var(--gradient);
+  color: var(--tekstkleur);
   font-family: "Abel", sans-serif;
-  background: #193d59;
-  background: radial-gradient(
-    circle,
-    rgba(25, 61, 89, 1) 0%,
-    rgba(6, 34, 56, 1) 50%,
-    rgba(0, 0, 0, 1) 100%
-  );
 }
 
 /**************************
@@ -92,7 +119,7 @@ main {
 * MARK: Section ...
 **************************/
 button {
-  width: 40%;
+  width: 100%;
   background: none;
   border: none;
   padding: 0;
@@ -100,6 +127,7 @@ button {
   outline: none;
   cursor: pointer;
 }
+
 ul {
   margin-left: -2.5em;
   list-style: none;
@@ -107,4 +135,23 @@ ul {
   gap: 1em;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
+}
+
+article p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5vw;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.radio-optie {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  margin-bottom: 0.7em;
+  font-size: 1.2vw;
 }
