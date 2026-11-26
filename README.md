@@ -113,7 +113,7 @@ vandaag heb ik zo goed mogelijk mijn Figma ontwerp nagemaakt met html en css. Ik
 <img width="750" alt="Scherm­afbeelding 2026-11-23 om 14 32 38" src="https://github.com/user-attachments/assets/97e95553-ecb0-4bf0-a1db-3f35b5885bb4" />
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/a845dc8a-53e7-4568-952e-faff1a64239c" />
 </details>
-
+<details>
 <summary><h1>25 nov les 8 sprint 1</h1></summary>
 Vandaag begon met theorie over de gestalt-principes. Daarna maakte ik een nieuwe schets voor mijn ontwerp waarna wat medestudenten feedback gaven over hoe ik met de theorie mijn ontwerp kan verbeteren. Vervolgens kreeg ik in het practicum van Sanna hulp met de laatste loodjes. Hierdoor lukte het mij om voor light en dark mode een verschillende achtergrond-gradient te krijgen en dat de posters van kleur veranderen. Ook maakte ik een begin aan het maken van variabelen voor kleur en tekst door clamp te gebruiken. 
 </details>
