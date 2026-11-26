@@ -43,23 +43,24 @@ Mijn idee nu is om iets te maken waar ik mijn photoshop posters mooi kan display
 <summary><h1>18 nov Les 5 sprint 1 </h1></summary>
 <h2>Vragenlijst na presentatie:</h2>
 
-Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
+<h3>Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?</h3>
 
 ​Visueel designen en mezelf motiveren om in me vrije tijd te experimenteren en te ontwerpen wat ik leuk vind.
 
-Heeft 'de ander' een aanvulling op je onderwerp?​
+<h3>Heeft 'de ander' een aanvulling op je onderwerp?​</h3>
 
 Ja dieper ingaan op de posters zelf en niet alleen de showcase van je posters.
 
-Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+<h3>Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​</h3>
 
 Het gevoel is modern, dynamisch en uniek.
 
-Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
+<h3>Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​</h3>
 
 Hoe ik de posters kan displayen en wat voor unieke ontwerptechnieken ik kan gebruiken in het maken van nieuwe posters.
 ​
-Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's).
+
+<h3>Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's).</h3>
 
 Ik wil een gallery maken waar ik vertel over het procces achter mijn designs hierbij wil ik ​vooral afbeeldingen van mijn ontwerpen op een unieke manier laten zien dmv animaties en moderne designs.
 
