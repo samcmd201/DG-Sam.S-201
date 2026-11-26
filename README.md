@@ -67,7 +67,7 @@ Vul deze zin aan:
 Ik wil mijn Digital Garden laten gaan over moderne digitale poster designs.
 en wil dat laten zien door ​vooral afbeeldingen op een unieke manier te laten zien dmv animaties.
 Ik begin met een stukje eigen content over nieuwe design technieken om mensen te inspireren.… . ​
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe posters erbij te zetten en meer manieren toetevoegen hoe de posters gedisplayed zijn.
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe posters erbij te zetten en meer manieren toe te voegen hoe de posters gedisplayed zijn.
 
 <h2>visueel onderzoek</h2>
 
@@ -81,7 +81,8 @@ Voor het visuele onderzoek heb ik eerst trefwoorden bepaald en op drie manieren 
 
 <h2>checkout vragen</h2>
 Leg uit waar het Visual Research in 3 stappen naartoe werkt
-Het visual research helpt om te visualiseren hoe het ontwerp eruit kan komen te zien dor te kijken wat er wel bij past en wat niet.
+
+Het visual research helpt om te visualiseren hoe het ontwerp eruit kan komen te zien door te kijken wat er wel bij past en wat niet.
 
 Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
 Mijn garden gaat over mijn poster designs. Hierin vertel ik over het procces, probeer ik anderen te inspireren, en mezelf te motiveren om in me vrije tijd te experimenteren met nieuwe technieken. Dit doe ik door mijn poster in een unieke carousel te laten zien met animaties, en mischien een geanimeerde transitie tussen verschillende carousel vormen.
